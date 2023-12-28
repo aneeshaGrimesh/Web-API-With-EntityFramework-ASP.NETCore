@@ -1,0 +1,6 @@
+1	Create project with ASP .NET Core webApi with latest version
+2	install Entity freame work core sql sqerver(newget package manager)
+3	Add Connection string in appsettings.json
+4	Add model folder and add table instance already created in sql 
+5	Add DAL Folder and add class ProducrDBContext 
+6	Add controller WEB API
